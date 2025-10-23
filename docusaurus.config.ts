@@ -24,7 +24,8 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'micbuffa', // Usually your GitHub org/user name.
   projectName: 'IFC2026website', // Usually your repo name.
-
+ trailingSlash: false,                // optional, but common
+  deploymentBranch: 'gh-pages',        // default, can be omitted but explicit is nice
   onBrokenLinks: 'throw',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -115,10 +116,6 @@ const config: Config = {
         {
           title: 'About',
           items: [
-            {
-              label: 'Code of conduct',
-              to: '/codeofconduct',
-            },
             {
               label: 'GitHub of this site',
               href: 'https://github.com/micbuffa/IFC2026website',
