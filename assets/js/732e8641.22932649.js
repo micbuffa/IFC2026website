@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkifc_2026=globalThis.webpackChunkifc_2026||[]).push([[9593],{9537:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/IFC2026website/index.html/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
