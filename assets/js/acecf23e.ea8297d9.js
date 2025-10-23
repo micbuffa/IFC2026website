@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkifc_2026=globalThis.webpackChunkifc_2026||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/IFC2026website/blog","blogTitle":"Blog","authorsListPath":"/IFC2026website/blog/authors"}')}}]);
