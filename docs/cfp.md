@@ -21,7 +21,7 @@ We welcome submissions from academics, professionals, independent programmers, a
 - **Artworks and Demos**: Submit a work to be presented as an artwork or hands-on demo which makes significant use of FAUST. Artwork and demo submissions consist of a 1-2 page extended abstract (PDF or MarkDown or LatTeX, that will not be integrated to the proceedings) including a title, a description of the project, diagrams, images or links to online resources. Works must be suitable for presentation on a computer kiosk with headphones. If your proposal requires unusual equipment to be provided by conference organizers, please contact the session chairs to ensure the feasibility of the proposal.
 - **Technology tutorial**: Send an detailed abstract (PDF or MarkDown or LaTex, that will not be integrated to the proceedings) of your tutorial directly to [the tutorial chair](mailto:michel.buffa@univ-cotedazur.fr).
 
-Papers should be written in English, up to 14 pages in length, non anonymous, and formatted according to the template provided on the conference website: https://sndmt.link/ifc24Template-zip. 
+Papers should be written in English, up to 14 pages in length, non anonymous, and formatted according to the [LaTex template](https://mega.nz/file/2h5iHRrJ#hdIdeTWSqSaqWILkVSYCuMOYqYqD6-RfSkD-OUOTVQo) provided. 
 
 All submissions are subject to peer review. Acceptance may be conditional upon changes being made to the paper as directed by reviewers. Accepted papers will be published on-line. They will be presented by their author(s) at IFC-26.
 
